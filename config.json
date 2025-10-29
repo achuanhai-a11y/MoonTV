@@ -5,23 +5,23 @@
       "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
       "detail": "http://caiji.dyttzyapi.com",
-      "is_adult": false
+      "is_adult": true
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
       "detail": "https://heimuer.tv",
-      "is_adult": false
+      "is_adult": true
     },
     "ruyi": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
-      "is_adult": false
+      "is_adult": true
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源",
-      "is_adult": false
+      "is_adult": true
     },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
@@ -93,17 +93,17 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源",
-      "is_adult": false
+      "is_adult": true
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站",
-      "is_adult": false
+      "is_adult": true
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源",
-      "is_adult": false
+      "is_adult": true
     }
   }
 }
